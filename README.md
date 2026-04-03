@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>$\color{rgb(100, 84, 107)}{\textsf{"There is no difference between Gods and monsters, child"}}$
+  <h1>$\color{rgb(171, 62, 201)}{\textsf{"There is no difference between Gods and monsters, child"}}$
 </h1>
 
 <p align="center"><img width="800" height="325" alt="hecate" src="https://github.com/user-attachments/assets/6af7c87a-8c6e-4549-9336-4b69d43e492d" />
