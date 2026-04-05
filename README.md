@@ -50,6 +50,7 @@
 
 <p align="center"><img width="800" height="250" alt="Hecate2" src="https://github.com/user-attachments/assets/234d56f5-0ecf-469d-b0d4-c7f861c79e2d" />
 
+![Views](https://komarev.com/ghpvc/?username=X-juoiter-X)
   
 
 
