@@ -1,57 +1,50 @@
 <div align="center">
-  <h1>$\color{rgb(171, 62, 201)}{\textsf{"There is no difference between Gods and monsters, child"}}$
+  <h1>$\color{rgb(44, 18, 68)}{\textsf{“If rescuing you is a sin, I will gladly become a sinner”}}$
 </h1>
 
-<p align="center"><img width="800" height="325" alt="hecate" src="https://github.com/user-attachments/assets/6af7c87a-8c6e-4549-9336-4b69d43e492d" />
+<p align="center"><img width="850" height="300" alt="MyGitHub1stPic" src="https://github.com/user-attachments/assets/f878dd97-f4dc-4bd6-8096-6c4e05510038" />
 
 <div align="center">
-  <h1>$\color{rgb(140, 28, 140)}{\textsf{✧˖°☽Jυριƚҽɾ☾✧˖°}}$
+  <h1>$\color{rgb(53, 1, 102)}{\textsf{✧˖°☽Jυριƚҽɾ☾✧˖°}}$
 </h1>
-  <p>$\color{rgb(150, 110, 150)}{\textsf{Hello! I am a sapphic demi-girl who's also a Hellenic Pagan, I worship Hecate, Artemis and Nyx}}$</p>
+  <p>$\color{rgb(53, 1, 102)}{\textsf{Hello! I am Jupiter, a lesbian demi-girl who's also a Hellenic Polytheist}}$</p>
 </h1>
-  <p>$\color{rgb(150, 110, 150)}{\textsf{I am also a green and kitchen witch, I use plants and food to cast spells}}$</p>
+  <p>$\color{rgb(53, 1, 102)}{\textsf{I am also a green and kitchen, and divination witch, I use plants and food to cast spells and I do readings}}$</p>
 </h1>
-  <p>$\color{rgb(150, 110, 150)}{\textsf{as well as offer them to the Gods}}$</p>
+  <p>$\color{rgb(106, 7, 115)}{\textsf{DNI:}}$</p>
 </h1>
-  <p>$\color{rgb(180, 22, 224)}{\textsf{DNI:}}$</p>
+  <p>$\color{rgb(106, 7, 115)}{\textsf{Basic DNIs, rude people, ppl who copy skins, homophobes and transphobes, proshippers, shipping and hating on the actual Gods together}}$</p>
 </h1>
-  <p>$\color{rgb(180, 22, 224)}{\textsf{Basic DNIs, rude people, ppl who copy skins, homophobes and transphobes, proshippers, shipping and hating on the actual Gods together}}$</p>
+  <p>$\color{rgb(106, 7, 115)}{\textsf{[I absolutely don't mind if the ships(and hate ig) are fandom wise, for example games, books or movies}}$</p>
 </h1>
-  <p>$\color{rgb(180, 22, 224)}{\textsf{[I absolutely don't mind if the ships(and hate ig) are fandom wise, for example games, books or movies}}$</p>
+  <p>$\color{rgb(175, 19, 129)}{\textsf{just please don't ship nor hate the actual religious figures]}}$</p>
 </h1>
-  <p>$\color{rgb(180, 22, 224)}{\textsf{just please don't ship nor hate the actual religious figures]}}$</p>
+  <p>$\color{rgb(175, 19, 129)}{\textsf{incest shippers, people who use EPIC and PJO as their main sources, I am not against these fandoms, I am in them too}}$</p>
 </h1>
-  <p>$\color{rgb(180, 22, 224)}{\textsf{incest shippers, people who use EPIC and PJO as their main sources, I am not against these fandoms, I am in them too}}$</p>
+  <p>$\color{rgb(175, 19, 129)}{\textsf{but they are not accurate mythology sources, neither are many other musicals and books}}$</p>
 </h1>
-  <p>$\color{rgb(180, 22, 224)}{\textsf{but they are not accurate mythology sources, neither are many other musicals and books}}$</p>
+  <p>$\color{rgb(207, 38, 137)}{\textsf{people who sexualize minors as well as maiden Goddesses}}$</p>
 </h1>
-  <p>$\color{rgb(180, 22, 224)}{\textsf{people who sexualize minors as well as maiden Goddesses}}$</p>
+  <p>$\color{rgb(207, 38, 137)}{\textsf{INT:}}$</p>
 </h1>
-  <p>$\color{rgb(144, 106, 156)}{\textsf{INT:}}$</p>
-</h1>
-  <p>$\color{rgb(144, 106, 156)}{\textsf{Greek mythology fans, DUH! Nevermore fans(Webtoon), Circe, Scylla, Helen, Cassandra, Artemis, Hecate, Nyx, Persephone,}}$</p>
-</h1>
-  <p>$\color{rgb(144, 106, 156)}{\textsf{Hades and Hades II, Odyssey, Iliad}}$</p>
-</h1>
-  <p>$\color{rgb(103, 48, 166)}{\textsf{Ships:}}$</p>
-</h1>
-  <p>$\color{rgb(103, 48, 166)}{\textsf{[BOOKS]: (The end crowns all) Helen x Cassandra, Andromache x Hector, Andromache x Cassandra}}$</p>
-</h1>
-  <p>$\color{rgb(103, 48, 166)}{\textsf{(Circe book) Circe x Scylla, Scylla x Pasiphae,}}$</p>
-</h1>
-  <p>$\color{rgb(103, 48, 166)}{\textsf{(Iliad) Same as The end crowns all but minus Andromache x Cassandra and + Menelaus x Helen, Achilles x Patroclus,}}$</p>
-</h1>
-  <p>$\color{rgb(103, 48, 166)}{\textsf{Pyrrha x Deidamia, Priam x Hecuba}}$</p>
-</h1>
-  <p>$\color{rgb(103, 48, 166)}{\textsf{(Hades game) Persephone x Nyx, Artemis x Callisto, Nemesis x Melinoe, Arachne x Melinoe, Eris x Melinoe, Persephone x Hades}}$</p>
-</h1>
-  <p>$\color{rgb(103, 48, 166)}{\textsf{Nyx x Persephone x Hades, Zagreus x Megaera x Thanatos,}}$</p>
+  <p>$\color{rgb(207, 38, 137)}{\textsf{Anyone can interact as long as they're not in any of the DNI cryteria!!}}$</p>
 </h1>
 
-<p align="center"><img width="800" height="250" alt="Hecate2" src="https://github.com/user-attachments/assets/234d56f5-0ecf-469d-b0d4-c7f861c79e2d" />
+  <h1>$\color{rgb(44, 18, 68)}{\textsf{}}$
+</h1>
 
-![Views](https://komarev.com/ghpvc/?username=X-juoiter-X)
+<p align="center"><img width="850" height="300" alt="MyFandoms" src="https://github.com/user-attachments/assets/bfbdfb73-bdbd-4320-86ce-127fcd30537b" />
+
+$\color{rgb(231, 92, 157)}{\textsf{︶⊹︶︶୨୧︶︶⊹︶✦ .  ⁺   . ✦ .  ⁺════════════════════════════════════  . ✦ .   ⁺  ✦ .︶⊹︶︶୨୧︶︶⊹︶}}$
+
+ <p align="center"><img width="850" height="300" alt="MeAndKur" src="https://github.com/user-attachments/assets/4d6a262f-3b03-45f6-9e91-fb68a5e6b53a" />
+
+ <h1>$\color{rgb(251, 140, 172)}{\textsf{"But you're the most beautiful, perfect girl in the world!"}}$
+</h1> 
+
+<p align="center"><img width="850" height="300" alt="MyGitHub2stPic" src="https://github.com/user-attachments/assets/e0bd21b1-34cf-4926-8a42-51afd804ff70" />
   
 
+![Views](https://komarev.com/ghpvc/?username=X-juoiter-X)
 
 
