@@ -34,7 +34,8 @@
 </h1>
 
 <p align="center"><img width="850" height="300" alt="MyFandoms" src="https://github.com/user-attachments/assets/bfbdfb73-bdbd-4320-86ce-127fcd30537b" />
-
+  
+and Silver Palace (I need to remake my github. gulps)
 $\color{rgb(231, 92, 157)}{\textsf{︶⊹︶︶୨୧︶︶⊹︶✦ .  ⁺   . ✦ .  ⁺════════════════════════════════════  . ✦ .   ⁺  ✦ .︶⊹︶︶୨୧︶︶⊹︶}}$
 
  <p align="center"><img width="850" height="300" alt="MeAndKur" src="https://github.com/user-attachments/assets/4d6a262f-3b03-45f6-9e91-fb68a5e6b53a" />
