@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>$\color{rgb(235, 119, 52)}{\textsf{“Truth and lies, kindness and deceit.. I will be fooled by them no longer.”}}$
+  <h1>$\color{rgb(235, 119, 52)}{\textsf{“Truth and lies, kindness and deceit.. I will be fooled by them no longer”}}$
 </h1>
 
 <p align="center"><img width="2024" height="700" alt="Github stuff ig_20260812142631" src="https://github.com/user-attachments/assets/2d58acda-6691-431b-bcc1-c6a7ae65d616" />
