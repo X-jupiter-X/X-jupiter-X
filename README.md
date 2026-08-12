@@ -1,8 +1,9 @@
 <div align="center">
-  <h1>$\color{rgb(44, 18, 68)}{\textsf{“If rescuing you is a sin, I will gladly become a sinner”}}$
+  <h1>$\color{rgb(235, 119, 52)}{\textsf{“Truth and lies, kindness and deceit.. I will be fooled by them no longer.”}}$
 </h1>
 
-<p align="center"><img width="850" height="300" alt="MyGitHub1stPic" src="https://github.com/user-attachments/assets/f878dd97-f4dc-4bd6-8096-6c4e05510038" />
+<p align="center"><img width="2024" height="700" alt="Github stuff ig_20260812142631" src="https://github.com/user-attachments/assets/2d58acda-6691-431b-bcc1-c6a7ae65d616" />
+
 
 <div align="center">
   <h1>$\color{rgb(53, 1, 102)}{\textsf{✧˖°☽Jυριƚҽɾ☾✧˖°}}$
@@ -33,17 +34,17 @@
   <h1>$\color{rgb(44, 18, 68)}{\textsf{}}$
 </h1>
 
-<p align="center"><img width="850" height="300" alt="MyFandoms" src="https://github.com/user-attachments/assets/bfbdfb73-bdbd-4320-86ce-127fcd30537b" />
+<p align="center"><img width="2024" height="700" alt="Github stuff ig_20260812133754" src="https://github.com/user-attachments/assets/a30b3ad5-1c0b-4ff9-a0fa-2cde5265a049" />
+
   
-and Silver Palace (I need to remake my github. gulps)
 $\color{rgb(231, 92, 157)}{\textsf{︶⊹︶︶୨୧︶︶⊹︶✦ .  ⁺   . ✦ .  ⁺════════════════════════════════════  . ✦ .   ⁺  ✦ .︶⊹︶︶୨୧︶︶⊹︶}}$
 
- <p align="center"><img width="850" height="300" alt="MeAndKur" src="https://github.com/user-attachments/assets/4d6a262f-3b03-45f6-9e91-fb68a5e6b53a" />
+ <p align="center"><img width="2024" height="700" alt="MeAndKur" src="https://github.com/user-attachments/assets/4d6a262f-3b03-45f6-9e91-fb68a5e6b53a" />
 
  <h1>$\color{rgb(251, 140, 172)}{\textsf{"But you're the most beautiful, perfect girl in the world!"}}$
 </h1> 
 
-<p align="center"><img width="850" height="300" alt="MyGitHub2stPic" src="https://github.com/user-attachments/assets/e0bd21b1-34cf-4926-8a42-51afd804ff70" />
+<p align="center"><img width="2024" height="700" alt="MyGitHub2stPic" src="https://github.com/user-attachments/assets/e0bd21b1-34cf-4926-8a42-51afd804ff70" />
   
 
 ![Views](https://komarev.com/ghpvc/?username=X-juoiter-X)
