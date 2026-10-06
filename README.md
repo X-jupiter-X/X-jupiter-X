@@ -39,8 +39,6 @@
   
 $\color{rgb(231, 92, 157)}{\textsf{︶⊹︶︶୨୧︶︶⊹︶✦ .  ⁺   . ✦ .  ⁺════════════════════════════════════  . ✦ .   ⁺  ✦ .︶⊹︶︶୨୧︶︶⊹︶}}$
 
- <p align="center"><img width="2024" height="700" alt="MeAndKur" src="https://github.com/user-attachments/assets/4d6a262f-3b03-45f6-9e91-fb68a5e6b53a" />
-
  <h1>$\color{rgb(251, 140, 172)}{\textsf{"But you're the most beautiful, perfect girl in the world!"}}$
 </h1> 
 
